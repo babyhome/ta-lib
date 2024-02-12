@@ -37,4 +37,12 @@ public class day1 {
             }
         }
     }
+
+    public static void example() {
+        int[] nums = new int[5];
+
+        for (int i = 0; i < 5; i++) {
+            nums[i] = i;
+        }
+    }
 }
